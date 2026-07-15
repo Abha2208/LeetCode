@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/Abha2208/LeetCode/tree/master/0221-maximal-square) |
 | [1331-rank-transform-of-an-array](https://github.com/Abha2208/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abha2208/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
@@ -41,9 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/Abha2208/LeetCode/tree/master/0221-maximal-square) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abha2208/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abha2208/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/Abha2208/LeetCode/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
