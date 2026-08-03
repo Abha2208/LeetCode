@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Abha2208/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abha2208/LeetCode/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Abha2208/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Abha2208/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abha2208/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abha2208/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abha2208/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Abha2208/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abha2208/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abha2208/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Abha2208/LeetCode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abha2208/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Abha2208/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abha2208/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Abha2208/LeetCode/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/Abha2208/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abha2208/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Abha2208/LeetCode/tree/master/1406-stone-game-iii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abha2208/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abha2208/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -152,9 +155,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abha2208/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abha2208/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Abha2208/LeetCode/tree/master/1406-stone-game-iii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Abha2208/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Simulation
 |  |
 | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Abha2208/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Abha2208/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Abha2208/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
