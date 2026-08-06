@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Abha2208/LeetCode/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Abha2208/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abha2208/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Abha2208/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abha2208/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abha2208/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Abha2208/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abha2208/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
