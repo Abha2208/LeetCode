@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Abha2208/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Abha2208/LeetCode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Abha2208/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abha2208/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Abha2208/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0412-fizz-buzz](https://github.com/Abha2208/LeetCode/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abha2208/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abha2208/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abha2208/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Abha2208/LeetCode/tree/master/0412-fizz-buzz) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Abha2208/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Minimax
 |  |
