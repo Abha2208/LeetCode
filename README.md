@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Abha2208/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Abha2208/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abha2208/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1652-defuse-the-bomb](https://github.com/Abha2208/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abha2208/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abha2208/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abha2208/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abha2208/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Abha2208/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/Abha2208/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abha2208/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
