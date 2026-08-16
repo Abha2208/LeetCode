@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Abha2208/LeetCode/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/Abha2208/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abha2208/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Abha2208/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Abha2208/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abha2208/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abha2208/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abha2208/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Abha2208/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abha2208/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Abha2208/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abha2208/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abha2208/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abha2208/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abha2208/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Abha2208/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Abha2208/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Abha2208/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Abha2208/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abha2208/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Abha2208/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
