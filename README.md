@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Abha2208/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abha2208/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abha2208/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abha2208/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abha2208/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abha2208/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Abha2208/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abha2208/LeetCode/tree/master/0412-fizz-buzz) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abha2208/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Abha2208/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Minimax
 |  |
