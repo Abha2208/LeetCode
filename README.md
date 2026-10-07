@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Abha2208/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Abha2208/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abha2208/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Abha2208/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Abha2208/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abha2208/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Abha2208/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Abha2208/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Abha2208/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abha2208/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/Abha2208/LeetCode/tree/master/0412-fizz-buzz) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abha2208/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Abha2208/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Abha2208/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
