@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abha2208/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abha2208/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abha2208/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Abha2208/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1652-defuse-the-bomb](https://github.com/Abha2208/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abha2208/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abha2208/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Abha2208/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abha2208/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abha2208/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Abha2208/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abha2208/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abha2208/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abha2208/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Abha2208/LeetCode/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abha2208/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Abha2208/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Abha2208/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1872-stone-game-viii](https://github.com/Abha2208/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Abha2208/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abha2208/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abha2208/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/Abha2208/LeetCode/tree/master/0441-arranging-coins) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abha2208/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Abha2208/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abha2208/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abha2208/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abha2208/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Abha2208/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abha2208/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abha2208/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Abha2208/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1927-sum-game](https://github.com/Abha2208/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Abha2208/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abha2208/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abha2208/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Abha2208/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abha2208/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
