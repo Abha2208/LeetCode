@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Abha2208/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abha2208/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abha2208/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Abha2208/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Abha2208/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abha2208/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Abha2208/LeetCode/tree/master/3524-find-x-value-of-array-i) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abha2208/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abha2208/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Abha2208/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3360-stone-removal-game](https://github.com/Abha2208/LeetCode/tree/master/3360-stone-removal-game) |
 ## Minimax
 |  |
 | ------- |
